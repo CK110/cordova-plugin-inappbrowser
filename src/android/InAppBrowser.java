@@ -150,7 +150,7 @@ public class InAppBrowser extends CordovaPlugin {
     private boolean showFooter = false;
     private String footerColor = "";
     private String beforeload = "";
-    private boolean fullscreen = true;
+    private boolean fullscreen = false;
     private String[] allowedSchemes;
     private InAppBrowserClient currentClient;
 

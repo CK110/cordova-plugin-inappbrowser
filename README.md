@@ -1,3 +1,15 @@
+# Fork based 3.1.0-dev
+
+support postMessage wkwebview
+
+
+## 修改点
+
+1. 取消安卓的全屏展示
+2. ios上的statusbar在iphonex上的bug
+3. 修改ios上的导航箭头图标,closeButton
+
+
 ---
 title: Inappbrowser
 description: Open an in-app browser window.
