@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-inappbrowser",
-  "version": "3.1.1-dev",
+  "name": "cordova-plugin-inappbrowser-x",
+  "version": "3.1.2",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "cordova-plugin-inappbrowser-x",
     "platforms": [
       "android",
       "browser",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser"
+    "url": "https://github.com/CK110/cordova-plugin-inappbrowser"
   },
   "bugs": {
     "url": "https://github.com/apache/cordova-plugin-inappbrowser/issues"

@@ -19,8 +19,8 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-inappbrowser"
-      version="3.1.1-dev">
+           id="cordova-plugin-inappbrowser-x"
+      version="3.1.2">
 
     <name>InAppBrowser</name>
     <description>Cordova InAppBrowser Plugin</description>
@@ -100,6 +100,7 @@
 	    <source-file src="src/ios/CDVWKInAppBrowser.m" />
 	    <header-file src="src/ios/CDVWKInAppBrowserUIDelegate.h" />
 	    <source-file src="src/ios/CDVWKInAppBrowserUIDelegate.m" />
+
 
 	    <framework src="CoreGraphics.framework" />
     </platform>
